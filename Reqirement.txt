@@ -1,0 +1,11 @@
+pip install sklearn
+         pip install pandas
+         pip install pandas-datareader
+         pip install matplotlib
+         pip install pillow
+         pip install requests
+         pip install h5py
+         pip install tensorflow==1.8.0
+         pip install keras==2.2.0
+         pip install opencv-python
+         pip install opencv-contrib-python
