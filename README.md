@@ -1,7 +1,7 @@
 # Facial Recognition with Deep Learning in Keras Using CNN
 
 ## DESCRIPTION
-CNN: introduction for Convolotional layer neural networks and a simple CNN for Face recognition using Keras.
+CNN: introduction for Convolutional layer neural networks and a simple CNN for Face recognition using Keras.
 
 ## Task Need to be performed:
 Step 1:  At the first, you should input the required libraries.
