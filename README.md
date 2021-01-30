@@ -27,3 +27,6 @@ Step 7: plot the result.
 
 
 Dataset Link :- https://www.dropbox.com/s/i7uzp5yxk7wruva/ORL_faces.npz?dl=0
+
+![Tinkter](https://cdn.lynda.com/course/628706/628706-637286226106614922-16x9.jpg)
+
